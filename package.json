@@ -28,6 +28,7 @@
   "dependencies": {
     "@stylistic/stylelint-plugin": "catalog:",
     "stylelint-config-html": "catalog:",
+    "stylelint-config-standard": "catalog:",
     "stylelint-order": "catalog:"
   },
   "devDependencies": {
