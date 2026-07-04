@@ -2,7 +2,7 @@
   "name": "@zinkawaii/stylelint-config",
   "type": "module",
   "version": "0.4.1",
-  "packageManager": "pnpm@11.6.0",
+  "packageManager": "pnpm@11.9.0",
   "description": "Utakata na Shiawase",
   "author": "KazariEX",
   "license": "MIT",
@@ -28,7 +28,6 @@
   "dependencies": {
     "@stylistic/stylelint-plugin": "catalog:",
     "stylelint-config-html": "catalog:",
-    "stylelint-config-standard-scss": "catalog:",
     "stylelint-order": "catalog:"
   },
   "devDependencies": {

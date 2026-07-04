@@ -4,15 +4,14 @@ shellEmulator: true
 trustPolicy: no-downgrade
 
 catalog:
-  "@stylistic/stylelint-plugin": ^5.2.0
-  "@zinkawaii/eslint-config": ^0.4.4
+  "@stylistic/stylelint-plugin": ^5.2.1
+  "@zinkawaii/eslint-config": ^0.4.5
   "@zinkawaii/tsconfig": ^0.1.0
   bumpp: ^11.1.0
-  eslint: ^10.5.0
+  eslint: ^10.6.0
   known-css-properties: ^0.37.0
-  stylelint: ^17.13.0
+  stylelint: ^17.14.0
   stylelint-config-html: ^1.1.0
-  stylelint-config-standard-scss: ^17.0.0
   stylelint-order: ^8.1.1
-  tsdown: ^0.22.2
-  vitest: ^4.1.8
+  tsdown: ^0.22.3
+  vitest: ^4.1.9

@@ -8,8 +8,6 @@ export default {
   "property-no-unknown": [true, {
     ignoreProperties: ["corners", /^corner-/],
   }],
-  "scss/at-if-closing-brace-newline-after": null,
-  "scss/at-if-closing-brace-space-after": null,
   "selector-id-pattern": null,
   "selector-pseudo-class-no-unknown": [true, {
     ignorePseudoClasses: ["deep", "global", "slotted"],
