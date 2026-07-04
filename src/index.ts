@@ -7,6 +7,7 @@ export default function(config: Config = {}): Config {
   return {
     ...config,
     extends: [
+      "stylelint-config-standard",
       "stylelint-config-html",
       ...config.extends ?? [],
     ],
